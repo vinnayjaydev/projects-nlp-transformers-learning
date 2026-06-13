@@ -1,0 +1,6 @@
+doc_id,title,category,text,char_length,word_count,source,language,version
+1,Artificial Intelligence for Beginners,AI,Artificial Intelligence is the simulation of human intelligence by machines.,76,10,internal_knowledge_base,en,v1
+2,Machine Learning Basics,ML,Machine Learning is a subset of Artificial Intelligence that learns from data.,78,12,internal_knowledge_base,en,v1
+3,Deep Learning Introduction,DL,Deep Learning uses neural networks with multiple hidden layers.,63,9,internal_knowledge_base,en,v1
+4,Natural Language Processing,NLP,Natural Language Processing helps computers understand human language.,70,8,internal_knowledge_base,en,v1
+5,Python Programming,Programming,Python is one of the most popular programming languages for AI.,63,11,internal_knowledge_base,en,v1

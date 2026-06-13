@@ -1,0 +1,37 @@
+Example Usage
+
+For your first project, simply replace the top section with:
+
+Project Name: 01-token-explorer
+
+Project Goal:
+Build a learning application that demonstrates how Hugging Face tokenizers (SentencePiece, WordPiece, BPE) convert text into tokens, token IDs, and attention masks.
+
+Core Concepts:
+- Tokenization
+- AutoTokenizer
+- SentencePiece
+- WordPiece
+- Byte Pair Encoding (BPE)
+- Token IDs
+- Special Tokens
+- Attention Masks
+- Vocabulary
+- Subword Tokenization
+
+For the next project (02-attention-visualizer), simply change:
+
+Project Name: 02-attention-visualizer
+
+Project Goal:
+Build a visualization tool to understand self-attention and multi-head attention in Transformer models.
+
+Core Concepts:
+- Self Attention
+- Multi-Head Attention
+- Query, Key, Value
+- Attention Weights
+- Transformer Architecture
+- Attention Visualization
+
+Everything else remains exactly the same.

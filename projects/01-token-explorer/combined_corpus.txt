@@ -1,0 +1,6 @@
+Natural language processing is fascinating.
+Transformers have changed the field of AI.
+Tokenization converts text into tokens.
+Byte Pair Encoding learns subword units.
+SentencePiece works directly with Unicode text.
+Large Language Models rely heavily on tokenization.

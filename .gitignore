@@ -1,0 +1,55 @@
+.projectnlps
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.projectnlps/
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face / Transformers
+results/
+checkpoint-*/
+fine_tuned_distilbert/
+*.safetensors
+*.bin
+optimizer.pt
+scheduler.pt
+trainer_state.json
+training_args.bin
+rng_state.pth
+
+# Models
+models/
+saved_models/
+outputs/
+
+# Cache
+.cache/
+.huggingface/
+
+# Hugging Face / Transformers
+results/
+checkpoint-*/
+fine_tuned_distilbert/
+*.safetensors
+*.bin
+optimizer.pt
+scheduler.pt
+trainer_state.json
+training_args.bin
+
+# Virtual env
+.projectnlps/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,60 @@
+Chapter 1
+ ↓
+Notes + Practice
+
+Chapter 2
+ ↓
+Notes + Practice
+
+Chapter 3
+ ↓
+Build 01-token-explorer
+02-attention-visualizer
+
+Chapter 4
+ ↓
+NER Practice
+
+Chapter 5
+ ↓
+Text Generation Practice
+
+Chapter 6
+ ↓
+Summarization Practice
+
+Chapter 7
+ ↓
+QA Practice
+
+Chapter 8
+ ↓
+Compression Practice
+
+Chapter 9
+ ↓
+Prompting Practice
+
+Chapter 10
+ ↓
+01-token-explorer
+
+Book Finished
+ ↓
+03-text-classifier
+ ↓
+04-sentence-similarity
+ ↓
+05-semantic-search
+ ↓
+06-resume-search
+ ↓
+07-personal-knowledge-search
+ ↓
+Hands-On LLMs
+ ↓
+08-pdf-chatbot
+ ↓
+AI Engineering
+ ↓
+09-enterprise-search
