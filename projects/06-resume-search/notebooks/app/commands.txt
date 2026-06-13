@@ -1,0 +1,12 @@
+{
+  "job_description": "Need an accountant with Financial Accounting, GST, TDS, Tally ERP, SAP FICO and 3 years of experience.",
+  "top_k": 5
+}
+
+
+current folder
+streamlit run streamlit_app.py
+
+from one folder up 
+uvicorn main:app --reload
+
