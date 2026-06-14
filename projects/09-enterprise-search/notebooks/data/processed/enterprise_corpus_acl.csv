@@ -1,0 +1,7 @@
+source,title,content,author,doc_id,department,created_date,tags,acl_roles,security_level,owner_team
+Slack,Phoenix Deployment Discussion,The Phoenix-2026 deployment is scheduled for next Friday. Database migration will happen during the maintenance window.,Alice,DOC0001,Engineering,2026-01-11,"['enterprise-search', 'semantic-search']","['Engineering', 'Public']",Internal,Engineering
+Slack,Model Training Update,The semantic search model has been retrained using new support ticket data.,Bob,DOC0002,Finance,2026-01-12,"['phoenix', 'kubernetes']","['Finance', 'Public']",Restricted,Finance
+Confluence,Phoenix Architecture Wiki,Project Phoenix-2026 follows a microservice architecture using Kubernetes and FastAPI.,Charlie,DOC0003,HR,2026-01-13,"['semantic-search', 'enterprise-search']","['HR', 'Public']",Restricted,HR
+Confluence,Enterprise Search Design,Hybrid search combines BM25 keyword retrieval and semantic vector retrieval.,Diana,DOC0004,Engineering,2026-01-14,"['fastapi', 'acl']","['Engineering', 'Public']",Internal,Engineering
+Jira,PHX-245 Database Migration,Complete PostgreSQL migration before Phoenix production launch.,Eric,DOC0005,Engineering,2026-01-15,"['enterprise-search', 'kubernetes']","['Engineering', 'Public']",Internal,Engineering
+Jira,SEC-104 ACL Enhancement,Implement metadata-based access control filtering for enterprise search.,Fiona,DOC0006,HR,2026-01-16,"['phoenix', 'fastapi']","['HR', 'Public']",Restricted,HR
