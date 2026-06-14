@@ -10,3 +10,46 @@ streamlit run streamlit_app.py
 from one folder up 
 uvicorn main:app --reload
 
+docker
+D:\Books\projects-nlp-transformers-learning\projects\06-resume-search\notebooks>docker build -t resume-search-api .
+
+or 
+docker build --no-cache -t resume-search-api .
+
+Once it is ready 
+docker run -p 8000:8000 resume-search-api
+
+
+AAFter taht open cmd prompt 
+curl -X POST "http://127.0.0.1:8000/match" ^
+-H "Content-Type: application/json" ^
+-d "{\"job_description\":\"Need an accountant with Financial Accounting, GST, TDS, Tally ERP, SAP FICO and 3 years of experience.\",\"top_k\":5}"
+
+
+output 
+{
+  "job_description": "...",
+  "num_results": 5,
+  "results": [
+    {
+      "candidate": "20624984.pdf",
+      "faiss_score": 0.6869
+    },
+    ...
+  ]
+}
+
+See running containers
+docker ps
+
+Stop the running container
+docker stop <container_id>
+
+Run the container in detached (background) mode
+docker run -d -p 8000:8000 --name resume-search-container resume-search-api
+
+View logs from the background container
+docker logs -f resume-search-container
+
+Remove the container after stopping it
+docker rm resume-search-container
