@@ -1,0 +1,68 @@
+child_id,parent_id,document_id,content
+5f2b6fb4-0d03-4817-900a-945162a178c2,7d09d047-2858-43c4-bf8b-d40519129087,1fe99400-06e1-4964-956b-3861687e7da4,"AI Platform Roadmap
+Search Infrastructure
+Retrieval Systems
+Deployment Roadmap
+Vector search infrast"
+047bf5df-d450-4bbe-92c2-2396ed3a7b30,7d09d047-2858-43c4-bf8b-d40519129087,1fe99400-06e1-4964-956b-3861687e7da4,"ructure rollout.
+Search latency improved significantly.
+New indexing pipeline deployed.
+Hybrid retri"
+b400d323-ca7c-4813-ac4e-a2ba69786f3f,7d09d047-2858-43c4-bf8b-d40519129087,1fe99400-06e1-4964-956b-3861687e7da4,"eval implementation.
+Semantic search quality improved.
+Knowledge base coverage expanded.
+Cross encod"
+e68fd4e0-8796-416e-b24b-46ccae0f8d1d,a1c5bb38-4de7-4ca4-805a-7e3fc0419867,1fe99400-06e1-4964-956b-3861687e7da4,"er deployment planned.
+Enterprise RAG platform launch Q3.
+Agentic workflows under evaluation.
+Compon"
+e001567a-7134-4290-9ebb-e7e07e069dcb,a1c5bb38-4de7-4ca4-805a-7e3fc0419867,1fe99400-06e1-4964-956b-3861687e7da4,"ent | Status
+Vector Search | Production
+Hybrid Retrieval | Testing
+Cross Encoder | Planned
+"
+0b338cc8-85bc-440a-b1a2-a88b6a8b035b,9cb41e2d-b979-4c89-a091-01db42c3748e,b638264b-b788-442e-a09d-19176466fba8,"Annual Financial Report 2026
+Revenue Performance
+Profitability
+Cloud Division
+Revenue reached $5.2 b"
+fae64b23-bac1-4b0c-8f50-029329796b70,9cb41e2d-b979-4c89-a091-01db42c3748e,b638264b-b788-442e-a09d-19176466fba8,"illion.
+Revenue increased across all regions.
+Subscription services contributed strongly.
+Operating "
+6ff28fa9-a270-4db1-8662-3016c0c17aa9,9cb41e2d-b979-4c89-a091-01db42c3748e,b638264b-b788-442e-a09d-19176466fba8,"margin improved to 18%.
+Cost optimization reduced expenses.
+Free cash flow reached record levels.
+Cl"
+f9c01c39-fe13-43cb-9297-81f5de952cca,7cdee370-fba0-4bc7-9fe1-a39230162073,b638264b-b788-442e-a09d-19176466fba8,"oud division grew by 35%.
+AI products generated record profits.
+Enterprise customers expanded usage."
+0dcc44dc-097f-463f-b5d4-7e1614ce3ef3,7cdee370-fba0-4bc7-9fe1-a39230162073,b638264b-b788-442e-a09d-19176466fba8,"
+Region | Revenue
+US | 2.1B
+Europe | 1.7B
+Asia | 1.4B
+"
+94b65479-1416-48a7-ae99-683771424584,fd7bb5e1-9ec6-470a-8726-bbdc04fcc6dc,31516a79-2cf5-4080-ac66-66b338d6ebff,"Employee Benefits 2026
+Health Insurance
+Dental Benefits
+Remote Work Policy
+Health insurance coverage"
+f10bc7b7-4708-4a5a-a8a4-f204a0f1d6c3,fd7bb5e1-9ec6-470a-8726-bbdc04fcc6dc,31516a79-2cf5-4080-ac66-66b338d6ebff," increased by 12%.
+The company expanded hospitalization benefits.
+Employees can now add dependents a"
+8ff21095-c362-44d2-b85c-f61357e6e868,fd7bb5e1-9ec6-470a-8726-bbdc04fcc6dc,31516a79-2cf5-4080-ac66-66b338d6ebff,"t reduced rates.
+Dental insurance remains unchanged.
+Preventive dental checkups remain fully covered"
+7e8d5c48-e126-4842-b655-a83e1465301a,4d127151-0af4-4b00-bdad-b66ad91aa656,31516a79-2cf5-4080-ac66-66b338d6ebff,".
+Orthodontic coverage was extended for children.
+Remote work allowance increased.
+Employees may cla"
+bf58e000-ff75-462f-aea5-b36c88ec1f52,4d127151-0af4-4b00-bdad-b66ad91aa656,31516a79-2cf5-4080-ac66-66b338d6ebff,"im internet reimbursement.
+Work-from-home equipment support continues.
+Benefit | Coverage
+Health Ins"
+8f9c8a32-8b04-41a2-ae0c-0ca03b1fd491,4d127151-0af4-4b00-bdad-b66ad91aa656,31516a79-2cf5-4080-ac66-66b338d6ebff,"urance | 12% Increase
+Dental Insurance | No Change
+Remote Work Allowance | Increased
+"

@@ -1,0 +1,97 @@
+document_id,filename,department,doc_type,created_at,content,char_count
+1fe99400-06e1-4964-956b-3861687e7da4,AI_Roadmap.txt,engineering,corporate_document,2026-01-01,"
+# AI Platform Roadmap
+
+## Search Infrastructure
+
+Vector search infrastructure rollout.
+
+Search latency improved significantly.
+
+New indexing pipeline deployed.
+
+## Retrieval Systems
+
+Hybrid retrieval implementation.
+
+Semantic search quality improved.
+
+Knowledge base coverage expanded.
+
+## Deployment Roadmap
+
+Cross encoder deployment planned.
+
+Enterprise RAG platform launch Q3.
+
+Agentic workflows under evaluation.
+
+Component | Status
+Vector Search | Production
+Hybrid Retrieval | Testing
+Cross Encoder | Planned
+",516
+b638264b-b788-442e-a09d-19176466fba8,Annual_Report_2026.txt,finance,corporate_document,2026-01-01,"
+# Annual Financial Report 2026
+
+## Revenue Performance
+
+Revenue reached $5.2 billion.
+
+Revenue increased across all regions.
+
+Subscription services contributed strongly.
+
+## Profitability
+
+Operating margin improved to 18%.
+
+Cost optimization reduced expenses.
+
+Free cash flow reached record levels.
+
+## Cloud Division
+
+Cloud division grew by 35%.
+
+AI products generated record profits.
+
+Enterprise customers expanded usage.
+
+Region | Revenue
+US | 2.1B
+Europe | 1.7B
+Asia | 1.4B
+",479
+31516a79-2cf5-4080-ac66-66b338d6ebff,Benefits_2026.txt,hr,corporate_document,2026-01-01,"
+# Employee Benefits 2026
+
+## Health Insurance
+
+Health insurance coverage increased by 12%.
+
+The company expanded hospitalization benefits.
+
+Employees can now add dependents at reduced rates.
+
+## Dental Benefits
+
+Dental insurance remains unchanged.
+
+Preventive dental checkups remain fully covered.
+
+Orthodontic coverage was extended for children.
+
+## Remote Work Policy
+
+Remote work allowance increased.
+
+Employees may claim internet reimbursement.
+
+Work-from-home equipment support continues.
+
+Benefit | Coverage
+Health Insurance | 12% Increase
+Dental Insurance | No Change
+Remote Work Allowance | Increased
+",610

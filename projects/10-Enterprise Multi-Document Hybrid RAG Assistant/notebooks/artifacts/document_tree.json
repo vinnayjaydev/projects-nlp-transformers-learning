@@ -1,0 +1,212 @@
+{
+    "1fe99400-06e1-4964-956b-3861687e7da4": [
+        {
+            "type": "title",
+            "content": "AI Platform Roadmap"
+        },
+        {
+            "type": "heading",
+            "content": "Search Infrastructure"
+        },
+        {
+            "type": "heading",
+            "content": "Retrieval Systems"
+        },
+        {
+            "type": "heading",
+            "content": "Deployment Roadmap"
+        },
+        {
+            "type": "paragraph",
+            "content": "Vector search infrastructure rollout."
+        },
+        {
+            "type": "paragraph",
+            "content": "Search latency improved significantly."
+        },
+        {
+            "type": "paragraph",
+            "content": "New indexing pipeline deployed."
+        },
+        {
+            "type": "paragraph",
+            "content": "Hybrid retrieval implementation."
+        },
+        {
+            "type": "paragraph",
+            "content": "Semantic search quality improved."
+        },
+        {
+            "type": "paragraph",
+            "content": "Knowledge base coverage expanded."
+        },
+        {
+            "type": "paragraph",
+            "content": "Cross encoder deployment planned."
+        },
+        {
+            "type": "paragraph",
+            "content": "Enterprise RAG platform launch Q3."
+        },
+        {
+            "type": "paragraph",
+            "content": "Agentic workflows under evaluation."
+        },
+        {
+            "type": "table",
+            "content": "Component | Status"
+        },
+        {
+            "type": "table",
+            "content": "Vector Search | Production"
+        },
+        {
+            "type": "table",
+            "content": "Hybrid Retrieval | Testing"
+        },
+        {
+            "type": "table",
+            "content": "Cross Encoder | Planned"
+        }
+    ],
+    "b638264b-b788-442e-a09d-19176466fba8": [
+        {
+            "type": "title",
+            "content": "Annual Financial Report 2026"
+        },
+        {
+            "type": "heading",
+            "content": "Revenue Performance"
+        },
+        {
+            "type": "heading",
+            "content": "Profitability"
+        },
+        {
+            "type": "heading",
+            "content": "Cloud Division"
+        },
+        {
+            "type": "paragraph",
+            "content": "Revenue reached $5.2 billion."
+        },
+        {
+            "type": "paragraph",
+            "content": "Revenue increased across all regions."
+        },
+        {
+            "type": "paragraph",
+            "content": "Subscription services contributed strongly."
+        },
+        {
+            "type": "paragraph",
+            "content": "Operating margin improved to 18%."
+        },
+        {
+            "type": "paragraph",
+            "content": "Cost optimization reduced expenses."
+        },
+        {
+            "type": "paragraph",
+            "content": "Free cash flow reached record levels."
+        },
+        {
+            "type": "paragraph",
+            "content": "Cloud division grew by 35%."
+        },
+        {
+            "type": "paragraph",
+            "content": "AI products generated record profits."
+        },
+        {
+            "type": "paragraph",
+            "content": "Enterprise customers expanded usage."
+        },
+        {
+            "type": "table",
+            "content": "Region | Revenue"
+        },
+        {
+            "type": "table",
+            "content": "US | 2.1B"
+        },
+        {
+            "type": "table",
+            "content": "Europe | 1.7B"
+        },
+        {
+            "type": "table",
+            "content": "Asia | 1.4B"
+        }
+    ],
+    "31516a79-2cf5-4080-ac66-66b338d6ebff": [
+        {
+            "type": "title",
+            "content": "Employee Benefits 2026"
+        },
+        {
+            "type": "heading",
+            "content": "Health Insurance"
+        },
+        {
+            "type": "heading",
+            "content": "Dental Benefits"
+        },
+        {
+            "type": "heading",
+            "content": "Remote Work Policy"
+        },
+        {
+            "type": "paragraph",
+            "content": "Health insurance coverage increased by 12%."
+        },
+        {
+            "type": "paragraph",
+            "content": "The company expanded hospitalization benefits."
+        },
+        {
+            "type": "paragraph",
+            "content": "Employees can now add dependents at reduced rates."
+        },
+        {
+            "type": "paragraph",
+            "content": "Dental insurance remains unchanged."
+        },
+        {
+            "type": "paragraph",
+            "content": "Preventive dental checkups remain fully covered."
+        },
+        {
+            "type": "paragraph",
+            "content": "Orthodontic coverage was extended for children."
+        },
+        {
+            "type": "paragraph",
+            "content": "Remote work allowance increased."
+        },
+        {
+            "type": "paragraph",
+            "content": "Employees may claim internet reimbursement."
+        },
+        {
+            "type": "paragraph",
+            "content": "Work-from-home equipment support continues."
+        },
+        {
+            "type": "table",
+            "content": "Benefit | Coverage"
+        },
+        {
+            "type": "table",
+            "content": "Health Insurance | 12% Increase"
+        },
+        {
+            "type": "table",
+            "content": "Dental Insurance | No Change"
+        },
+        {
+            "type": "table",
+            "content": "Remote Work Allowance | Increased"
+        }
+    ]
+}

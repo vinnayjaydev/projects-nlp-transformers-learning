@@ -1,0 +1,52 @@
+element_id,document_id,element_type,content
+ca5c2139-5dfc-4f72-8c9e-bfc08a019543,1fe99400-06e1-4964-956b-3861687e7da4,title,AI Platform Roadmap
+1bed6371-5f93-4441-b9b5-35fbadab95e6,1fe99400-06e1-4964-956b-3861687e7da4,heading,Search Infrastructure
+a0edaf4d-ddb1-4bc3-82f9-4d12c633e138,1fe99400-06e1-4964-956b-3861687e7da4,heading,Retrieval Systems
+d6e86085-e962-4a2a-ba3b-fd335d4b6318,1fe99400-06e1-4964-956b-3861687e7da4,heading,Deployment Roadmap
+06534449-c490-49cd-8d33-0f908a2214ef,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,Vector search infrastructure rollout.
+cc020ebf-ff98-4e3d-b652-faf11603c6e8,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,Search latency improved significantly.
+7a35aafc-7d35-445a-b97e-cab9eab135d3,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,New indexing pipeline deployed.
+5e3d6d0c-800e-4a42-8e7b-e095deb48dce,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,Hybrid retrieval implementation.
+13338c72-05ef-48bf-9dca-709a76091108,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,Semantic search quality improved.
+06af26e4-bb81-4512-bfb9-1687a32f4630,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,Knowledge base coverage expanded.
+bec79783-fe77-452a-b49b-342a463d480f,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,Cross encoder deployment planned.
+98c457d7-b49c-4068-a9cf-ff92479115af,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,Enterprise RAG platform launch Q3.
+524efb00-4622-4ebf-aae4-bfac7e1a7749,1fe99400-06e1-4964-956b-3861687e7da4,paragraph,Agentic workflows under evaluation.
+83c9b26e-9101-410d-a138-41f2fdef0ac6,1fe99400-06e1-4964-956b-3861687e7da4,table,Component | Status
+168355a7-3bc3-4745-a7e9-2dc6298bf819,1fe99400-06e1-4964-956b-3861687e7da4,table,Vector Search | Production
+295d51b0-2d4c-4b4a-9c02-afab049f0380,1fe99400-06e1-4964-956b-3861687e7da4,table,Hybrid Retrieval | Testing
+0f72e2c1-3b73-4fd4-8d25-5a2234ec8bbe,1fe99400-06e1-4964-956b-3861687e7da4,table,Cross Encoder | Planned
+79967650-fe58-4007-88fc-c439defbc4f7,b638264b-b788-442e-a09d-19176466fba8,title,Annual Financial Report 2026
+b7966cad-9bdc-444b-8e28-a9267d3679f9,b638264b-b788-442e-a09d-19176466fba8,heading,Revenue Performance
+2da43d9d-02e0-41a3-8c3a-68b702f622e4,b638264b-b788-442e-a09d-19176466fba8,heading,Profitability
+234d17a8-fb37-4d04-81c0-3572069f60b2,b638264b-b788-442e-a09d-19176466fba8,heading,Cloud Division
+bf951457-4884-4c69-a450-7cc48da0a974,b638264b-b788-442e-a09d-19176466fba8,paragraph,Revenue reached $5.2 billion.
+2760960b-6421-4efc-a85f-7302ddf281ab,b638264b-b788-442e-a09d-19176466fba8,paragraph,Revenue increased across all regions.
+f3ff164a-33e1-4745-89c6-0c80406298b8,b638264b-b788-442e-a09d-19176466fba8,paragraph,Subscription services contributed strongly.
+359e7c55-0318-4f9e-aa4a-1ea43aba94ff,b638264b-b788-442e-a09d-19176466fba8,paragraph,Operating margin improved to 18%.
+7962ea06-129d-4703-abbd-e670c46c09a6,b638264b-b788-442e-a09d-19176466fba8,paragraph,Cost optimization reduced expenses.
+5373d39b-8290-4a69-adb0-60bdeedbf365,b638264b-b788-442e-a09d-19176466fba8,paragraph,Free cash flow reached record levels.
+2fbc1d7e-2e7a-480e-a7d1-099500eab6f2,b638264b-b788-442e-a09d-19176466fba8,paragraph,Cloud division grew by 35%.
+d2f4375b-de6f-4c98-9a2c-5680bc6a9585,b638264b-b788-442e-a09d-19176466fba8,paragraph,AI products generated record profits.
+e7ec9bea-cdc1-4bfc-9a0f-0f891ef2bfaa,b638264b-b788-442e-a09d-19176466fba8,paragraph,Enterprise customers expanded usage.
+cdd75a56-352e-44ad-adc2-baec494298f4,b638264b-b788-442e-a09d-19176466fba8,table,Region | Revenue
+8144fcfe-aa03-499c-be97-2fdcd677b9c5,b638264b-b788-442e-a09d-19176466fba8,table,US | 2.1B
+24e046b1-9b09-449c-85f6-4a42e7437dd8,b638264b-b788-442e-a09d-19176466fba8,table,Europe | 1.7B
+b056c0b0-4d7e-46f9-8464-806f5543dd42,b638264b-b788-442e-a09d-19176466fba8,table,Asia | 1.4B
+12a2400b-f6bc-4518-bd68-514371bdf985,31516a79-2cf5-4080-ac66-66b338d6ebff,title,Employee Benefits 2026
+f1384f7f-16b9-46b8-b219-90443beed572,31516a79-2cf5-4080-ac66-66b338d6ebff,heading,Health Insurance
+f848e9f7-3622-44a1-bdec-f6156eb25f8d,31516a79-2cf5-4080-ac66-66b338d6ebff,heading,Dental Benefits
+1e71e43e-b6bd-4e86-ae34-4d6c7ed3ab0a,31516a79-2cf5-4080-ac66-66b338d6ebff,heading,Remote Work Policy
+264d59c0-2b79-49c8-b4ac-f5d052c0c9be,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,Health insurance coverage increased by 12%.
+c3359bc3-0239-4d29-be7a-7d99c98d827c,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,The company expanded hospitalization benefits.
+60c02ab5-8ae9-46d5-9496-8e001241af3d,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,Employees can now add dependents at reduced rates.
+cd132369-6957-4bcb-82de-e780d8fec84b,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,Dental insurance remains unchanged.
+e9cbd2e4-4164-4e07-9476-211228e319b7,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,Preventive dental checkups remain fully covered.
+b97a7ccc-7b1f-4840-b9e8-1844cf7cdf65,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,Orthodontic coverage was extended for children.
+c7c178a7-3aa2-419d-b3dc-12ac89f52b17,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,Remote work allowance increased.
+774d5806-bae8-4f34-b325-a78acca360d6,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,Employees may claim internet reimbursement.
+c6008a9e-9fc5-48f8-ba6c-4629198cd304,31516a79-2cf5-4080-ac66-66b338d6ebff,paragraph,Work-from-home equipment support continues.
+15671772-b0c4-4b31-9417-5adb4db15264,31516a79-2cf5-4080-ac66-66b338d6ebff,table,Benefit | Coverage
+76f2a0c8-fb10-4875-a09a-55ebaa80129f,31516a79-2cf5-4080-ac66-66b338d6ebff,table,Health Insurance | 12% Increase
+ffcafcfa-ade3-43ff-a340-768357e7023c,31516a79-2cf5-4080-ac66-66b338d6ebff,table,Dental Insurance | No Change
+de634cf9-b6ab-4132-a61b-f611be7054e6,31516a79-2cf5-4080-ac66-66b338d6ebff,table,Remote Work Allowance | Increased

@@ -1,0 +1,31 @@
+
+# AI Platform Roadmap
+
+## Search Infrastructure
+
+Vector search infrastructure rollout.
+
+Search latency improved significantly.
+
+New indexing pipeline deployed.
+
+## Retrieval Systems
+
+Hybrid retrieval implementation.
+
+Semantic search quality improved.
+
+Knowledge base coverage expanded.
+
+## Deployment Roadmap
+
+Cross encoder deployment planned.
+
+Enterprise RAG platform launch Q3.
+
+Agentic workflows under evaluation.
+
+Component | Status
+Vector Search | Production
+Hybrid Retrieval | Testing
+Cross Encoder | Planned

@@ -1,0 +1,17 @@
+{
+    "1fe99400-06e1-4964-956b-3861687e7da4": {
+        "filename": "AI_Roadmap.txt",
+        "department": "engineering",
+        "content": "\n# AI Platform Roadmap\n\n## Search Infrastructure\n\nVector search infrastructure rollout.\n\nSearch latency improved significantly.\n\nNew indexing pipeline deployed.\n\n## Retrieval Systems\n\nHybrid retrieval implementation.\n\nSemantic search quality improved.\n\nKnowledge base coverage expanded.\n\n## Deployment Roadmap\n\nCross encoder deployment planned.\n\nEnterprise RAG platform launch Q3.\n\nAgentic workflows under evaluation.\n\nComponent | Status\nVector Search | Production\nHybrid Retrieval | Testing\nCross Encoder | Planned\n"
+    },
+    "b638264b-b788-442e-a09d-19176466fba8": {
+        "filename": "Annual_Report_2026.txt",
+        "department": "finance",
+        "content": "\n# Annual Financial Report 2026\n\n## Revenue Performance\n\nRevenue reached $5.2 billion.\n\nRevenue increased across all regions.\n\nSubscription services contributed strongly.\n\n## Profitability\n\nOperating margin improved to 18%.\n\nCost optimization reduced expenses.\n\nFree cash flow reached record levels.\n\n## Cloud Division\n\nCloud division grew by 35%.\n\nAI products generated record profits.\n\nEnterprise customers expanded usage.\n\nRegion | Revenue\nUS | 2.1B\nEurope | 1.7B\nAsia | 1.4B\n"
+    },
+    "31516a79-2cf5-4080-ac66-66b338d6ebff": {
+        "filename": "Benefits_2026.txt",
+        "department": "hr",
+        "content": "\n# Employee Benefits 2026\n\n## Health Insurance\n\nHealth insurance coverage increased by 12%.\n\nThe company expanded hospitalization benefits.\n\nEmployees can now add dependents at reduced rates.\n\n## Dental Benefits\n\nDental insurance remains unchanged.\n\nPreventive dental checkups remain fully covered.\n\nOrthodontic coverage was extended for children.\n\n## Remote Work Policy\n\nRemote work allowance increased.\n\nEmployees may claim internet reimbursement.\n\nWork-from-home equipment support continues.\n\nBenefit | Coverage\nHealth Insurance | 12% Increase\nDental Insurance | No Change\nRemote Work Allowance | Increased\n"
+    }
+}
