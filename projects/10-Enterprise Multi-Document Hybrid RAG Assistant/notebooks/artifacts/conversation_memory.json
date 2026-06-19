@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "What was revenue in 2026?"
+    },
+    {
+        "role": "assistant",
+        "content": "Revenue was $5.2 billion."
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "7d09d047-2858-43c4-bf8b-d40519129087": {
+        "citation_id": "f1504e56-4aec-4fab-a41a-8fa78f621f31",
+        "filename": "AI_Roadmap.txt",
+        "department": "engineering",
+        "document_id": "1fe99400-06e1-4964-956b-3861687e7da4",
+        "parent_id": "7d09d047-2858-43c4-bf8b-d40519129087",
+        "evidence": "AI Platform Roadmap\nSearch Infrastructure\nRetrieval Systems\nDeployment Roadmap\nVector search infrastructure rollout.\nSearch latency improved significantly.\nNew indexing pipeline deployed.\nHybrid retrieval implementation.\nSemantic search quality improved.\nKnowledge base coverage expanded.\nCross encod"
+    },
+    "a1c5bb38-4de7-4ca4-805a-7e3fc0419867": {
+        "citation_id": "f4e82167-fac1-480a-bdf0-18e3b304b14c",
+        "filename": "AI_Roadmap.txt",
+        "department": "engineering",
+        "document_id": "1fe99400-06e1-4964-956b-3861687e7da4",
+        "parent_id": "a1c5bb38-4de7-4ca4-805a-7e3fc0419867",
+        "evidence": "er deployment planned.\nEnterprise RAG platform launch Q3.\nAgentic workflows under evaluation.\nComponent | Status\nVector Search | Production\nHybrid Retrieval | Testing\nCross Encoder | Planned\n"
+    },
+    "9cb41e2d-b979-4c89-a091-01db42c3748e": {
+        "citation_id": "08aba1fb-a1a4-42a7-a901-863aa3db546a",
+        "filename": "Annual_Report_2026.txt",
+        "department": "finance",
+        "document_id": "b638264b-b788-442e-a09d-19176466fba8",
+        "parent_id": "9cb41e2d-b979-4c89-a091-01db42c3748e",
+        "evidence": "Annual Financial Report 2026\nRevenue Performance\nProfitability\nCloud Division\nRevenue reached $5.2 billion.\nRevenue increased across all regions.\nSubscription services contributed strongly.\nOperating margin improved to 18%.\nCost optimization reduced expenses.\nFree cash flow reached record levels.\nCl"
+    },
+    "7cdee370-fba0-4bc7-9fe1-a39230162073": {
+        "citation_id": "e552f990-2f3c-4143-bea5-18798d56371b",
+        "filename": "Annual_Report_2026.txt",
+        "department": "finance",
+        "document_id": "b638264b-b788-442e-a09d-19176466fba8",
+        "parent_id": "7cdee370-fba0-4bc7-9fe1-a39230162073",
+        "evidence": "oud division grew by 35%.\nAI products generated record profits.\nEnterprise customers expanded usage.\nRegion | Revenue\nUS | 2.1B\nEurope | 1.7B\nAsia | 1.4B\n"
+    },
+    "fd7bb5e1-9ec6-470a-8726-bbdc04fcc6dc": {
+        "citation_id": "9bcb7be5-a063-4384-988c-690cf2d85da8",
+        "filename": "Benefits_2026.txt",
+        "department": "hr",
+        "document_id": "31516a79-2cf5-4080-ac66-66b338d6ebff",
+        "parent_id": "fd7bb5e1-9ec6-470a-8726-bbdc04fcc6dc",
+        "evidence": "Employee Benefits 2026\nHealth Insurance\nDental Benefits\nRemote Work Policy\nHealth insurance coverage increased by 12%.\nThe company expanded hospitalization benefits.\nEmployees can now add dependents at reduced rates.\nDental insurance remains unchanged.\nPreventive dental checkups remain fully covered"
+    },
+    "4d127151-0af4-4b00-bdad-b66ad91aa656": {
+        "citation_id": "00c29a4c-d316-4852-9c9a-465edb668f57",
+        "filename": "Benefits_2026.txt",
+        "department": "hr",
+        "document_id": "31516a79-2cf5-4080-ac66-66b338d6ebff",
+        "parent_id": "4d127151-0af4-4b00-bdad-b66ad91aa656",
+        "evidence": ".\nOrthodontic coverage was extended for children.\nRemote work allowance increased.\nEmployees may claim internet reimbursement.\nWork-from-home equipment support continues.\nBenefit | Coverage\nHealth Insurance | 12% Increase\nDental Insurance | No Change\nRemote Work Allowance | Increased\n"
+    }
+}
