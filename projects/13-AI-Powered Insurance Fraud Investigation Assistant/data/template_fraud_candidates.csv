@@ -1,0 +1,12 @@
+claim_1,claim_2,claimant_1,claimant_2,similarity,fraud_score
+CLM001,CLM013,Wendy Holland,Janice Zavala,0.99999994,100.0
+CLM002,CLM004,Douglas Lara,Jodi Reynolds MD,1.0000001,100.0
+CLM005,CLM007,Elizabeth Patel,Lisa Rich,1.0000002,100.0
+CLM005,CLM010,Elizabeth Patel,Julia Wilson,1.0000002,100.0
+CLM005,CLM015,Elizabeth Patel,Patricia Lopez,1.0000002,100.0
+CLM006,CLM011,Kevin Paul,Patrick Harvey,1.0000001,100.0
+CLM007,CLM010,Lisa Rich,Julia Wilson,1.0000002,100.0
+CLM007,CLM015,Lisa Rich,Patricia Lopez,1.0000002,100.0
+CLM008,CLM014,Pamela Hayes,Misty Smith,0.99999994,100.0
+CLM009,CLM012,Kendra Reyes,Stephanie Wood,0.9999998,100.0
+CLM010,CLM015,Julia Wilson,Patricia Lopez,1.0000002,100.0
