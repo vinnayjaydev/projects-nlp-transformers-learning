@@ -1,0 +1,21 @@
+question,contexts,generated_response,ground_truth,question_length,answer_length,answer_relevancy,relevancy_quality
+What is AWS?,AWS stands for Amazon Web Services. It is a cloud computing platform.,AWS is Amazon's cloud platform.,"AWS is Amazon Web Services, a cloud computing platform.",12.0,31,0.771484375,Average
+What is Azure?,Microsoft Azure is a cloud platform offered by Microsoft.,Azure is Microsoft's cloud service.,Microsoft Azure is a cloud computing platform offered by Microsoft.,14.0,35,0.8592192530632019,Good
+What is Google Cloud?,Google Cloud Platform provides cloud computing services.,Google Cloud offers cloud services.,Google Cloud Platform provides cloud computing services.,21.0,35,0.7734070420265198,Average
+What is AWS?,AWS is a cloud platform.,AWS provides cloud services.,AWS is a cloud computing platform.,,28,0.7005661725997925,Average
+What is Azure?,Azure is a cloud platform.,Azure provides cloud services.,Azure is a cloud computing platform.,,30,0.7739660739898682,Average
+What is Google Cloud?,Google Cloud is a cloud platform.,Google Cloud provides cloud services.,Google Cloud is a cloud computing platform.,,37,0.8113327026367188,Good
+What is Oracle Cloud?,Oracle Cloud is a cloud platform.,Oracle Cloud provides cloud services.,Oracle Cloud is a cloud computing platform.,,37,0.8487023115158081,Good
+What is IBM Cloud?,IBM Cloud is a cloud platform.,IBM Cloud provides cloud services.,IBM Cloud is a cloud computing platform.,,34,0.8622170686721802,Good
+Question 8,Sample context,Sample generated response,Sample ground truth,,25,0.13242590427398682,Poor
+Question 9,Sample context,Sample generated response,Sample ground truth,,25,0.11551078408956528,Poor
+Question 10,Sample context,Sample generated response,Sample ground truth,,25,0.12222583591938019,Poor
+Question 11,Sample context,Sample generated response,Sample ground truth,,25,0.13913317024707794,Poor
+Question 12,Sample context,Sample generated response,Sample ground truth,,25,0.12652859091758728,Poor
+Question 13,Sample context,Sample generated response,Sample ground truth,,25,0.16923698782920837,Poor
+Question 14,Sample context,Sample generated response,Sample ground truth,,25,0.16370612382888794,Poor
+Question 15,Sample context,Sample generated response,Sample ground truth,,25,0.1621166616678238,Poor
+Question 16,Sample context,Sample generated response,Sample ground truth,,25,0.1547243893146515,Poor
+Question 17,Sample context,Sample generated response,Sample ground truth,,25,0.18373940885066986,Poor
+Question 18,Sample context,Sample generated response,Sample ground truth,,25,0.22028177976608276,Poor
+Question 19,Sample context,Sample generated response,Sample ground truth,,25,0.20358550548553467,Poor

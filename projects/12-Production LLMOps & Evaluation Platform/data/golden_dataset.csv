@@ -1,0 +1,21 @@
+question,contexts,generated_response,ground_truth,question_length,answer_length
+What is AWS?,AWS stands for Amazon Web Services. It is a cloud computing platform.,AWS is Amazon's cloud platform.,"AWS is Amazon Web Services, a cloud computing platform.",12.0,55.0
+What is Azure?,Microsoft Azure is a cloud platform offered by Microsoft.,Azure is Microsoft's cloud service.,Microsoft Azure is a cloud computing platform offered by Microsoft.,14.0,67.0
+What is Google Cloud?,Google Cloud Platform provides cloud computing services.,Google Cloud offers cloud services.,Google Cloud Platform provides cloud computing services.,21.0,56.0
+What is AWS?,AWS is a cloud platform.,AWS provides cloud services.,AWS is a cloud computing platform.,,
+What is Azure?,Azure is a cloud platform.,Azure provides cloud services.,Azure is a cloud computing platform.,,
+What is Google Cloud?,Google Cloud is a cloud platform.,Google Cloud provides cloud services.,Google Cloud is a cloud computing platform.,,
+What is Oracle Cloud?,Oracle Cloud is a cloud platform.,Oracle Cloud provides cloud services.,Oracle Cloud is a cloud computing platform.,,
+What is IBM Cloud?,IBM Cloud is a cloud platform.,IBM Cloud provides cloud services.,IBM Cloud is a cloud computing platform.,,
+Question 8,Sample context,Sample generated response,Sample ground truth,,
+Question 9,Sample context,Sample generated response,Sample ground truth,,
+Question 10,Sample context,Sample generated response,Sample ground truth,,
+Question 11,Sample context,Sample generated response,Sample ground truth,,
+Question 12,Sample context,Sample generated response,Sample ground truth,,
+Question 13,Sample context,Sample generated response,Sample ground truth,,
+Question 14,Sample context,Sample generated response,Sample ground truth,,
+Question 15,Sample context,Sample generated response,Sample ground truth,,
+Question 16,Sample context,Sample generated response,Sample ground truth,,
+Question 17,Sample context,Sample generated response,Sample ground truth,,
+Question 18,Sample context,Sample generated response,Sample ground truth,,
+Question 19,Sample context,Sample generated response,Sample ground truth,,

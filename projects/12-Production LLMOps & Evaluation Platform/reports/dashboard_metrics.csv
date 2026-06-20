@@ -1,0 +1,2 @@
+total_requests,avg_latency,p99_latency,total_tokens,total_cost,avg_quality
+100,1359.14,2491.05,61284,1.586,0.7823

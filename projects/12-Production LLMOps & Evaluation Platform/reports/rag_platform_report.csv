@@ -1,0 +1,2 @@
+records,avg_faithfulness,avg_relevancy,avg_context_recall,avg_judge_score,avg_rag_health
+20,0.4,0.4147,0.6928,0.0,0.3823

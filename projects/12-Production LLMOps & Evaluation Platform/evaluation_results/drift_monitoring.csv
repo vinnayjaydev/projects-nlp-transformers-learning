@@ -1,0 +1,9 @@
+month,distance,status
+Jan,0.05,No Drift
+Feb,0.08,No Drift
+Mar,0.11,Minor Drift
+Apr,0.15,Minor Drift
+May,0.21,Minor Drift
+Jun,0.27,Moderate Drift
+Jul,0.34,Moderate Drift
+Aug,0.42,Major Drift
