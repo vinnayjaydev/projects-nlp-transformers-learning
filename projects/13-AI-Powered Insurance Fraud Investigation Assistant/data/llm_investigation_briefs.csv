@@ -1,0 +1,630 @@
+claim_id,fraud_risk_index,risk_category,investigation_brief
+CLM001,75.89,High,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM001
+
+Fraud Risk Index:
+75.89
+
+Risk Category:
+High
+
+Cross Encoder Verification Score:
+0.1821472668914981
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+2
+
+Claimant Statement:
+A vehicle rear-ended me while I was waiting at a traffic signal.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Section international though many movement.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM002,57.44,Medium,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM002
+
+Fraud Risk Index:
+57.44
+
+Risk Category:
+Medium
+
+Cross Encoder Verification Score:
+0.3512122393840929
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+1
+
+Claimant Statement:
+The vehicle changed lanes unexpectedly and hit my car.
+
+Police Report:
+Police observed damage consistent with reported collision.
+
+Adjuster Notes:
+Budget Mrs part spend middle threat smile increase.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM003,64.4,High,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM003
+
+Fraud Risk Index:
+64.4
+
+Risk Category:
+High
+
+Cross Encoder Verification Score:
+0.111989846886971
+
+Template Fraud Matches:
+0
+
+Collusion Ring Matches:
+2
+
+Claimant Statement:
+I was stopped at a red light when another vehicle hit me.
+
+Police Report:
+Accident report indicates claimant followed traffic rules.
+
+Adjuster Notes:
+Similar never box line.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM004,57.44,Medium,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM004
+
+Fraud Risk Index:
+57.44
+
+Risk Category:
+Medium
+
+Cross Encoder Verification Score:
+0.3512122393840929
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+1
+
+Claimant Statement:
+The vehicle changed lanes unexpectedly and hit my car.
+
+Police Report:
+Police observed damage consistent with reported collision.
+
+Adjuster Notes:
+Section season nor political bank.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM005,25.0,Low,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM005
+
+Fraud Risk Index:
+25.0
+
+Risk Category:
+Low
+
+Cross Encoder Verification Score:
+1.0
+
+Template Fraud Matches:
+3
+
+Collusion Ring Matches:
+0
+
+Claimant Statement:
+I was driving through an intersection when another vehicle struck my car.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Kind compare across audience society.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM006,40.16,Medium,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM006
+
+Fraud Risk Index:
+40.16
+
+Risk Category:
+Medium
+
+Cross Encoder Verification Score:
+0.4967261101968238
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Claimant Statement:
+
+
+My neck and lower back experienced severe pain immediately after impact.
+
+The collision caused significant emotional distress and loss of mobility.
+
+I continue to experience discomfort.
+
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Employee raise financial.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM007,89.76,Critical,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM007
+
+Fraud Risk Index:
+89.76
+
+Risk Category:
+Critical
+
+Cross Encoder Verification Score:
+0.2047327677472691
+
+Template Fraud Matches:
+3
+
+Collusion Ring Matches:
+4
+
+Claimant Statement:
+I was driving through an intersection when another vehicle struck my car.
+
+Police Report:
+Traffic camera footage supports claimant statement.
+
+Adjuster Notes:
+Say moment election certain stuff staff bed.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM008,74.33,High,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM008
+
+Fraud Risk Index:
+74.33
+
+Risk Category:
+High
+
+Cross Encoder Verification Score:
+0.2134007206203658
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+2
+
+Claimant Statement:
+I was traveling within the speed limit when the accident occurred.
+
+Police Report:
+Accident report indicates claimant followed traffic rules.
+
+Adjuster Notes:
+Brother they take positive apply relate.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM009,84.71,Critical,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM009
+
+Fraud Risk Index:
+84.71
+
+Risk Category:
+Critical
+
+Cross Encoder Verification Score:
+0.1058722311927585
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+3
+
+Claimant Statement:
+The driver failed to yield and collided with my vehicle.
+
+Police Report:
+Accident report indicates claimant followed traffic rules.
+
+Adjuster Notes:
+Treatment change building interesting scene.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM010,50.0,Medium,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM010
+
+Fraud Risk Index:
+50.0
+
+Risk Category:
+Medium
+
+Cross Encoder Verification Score:
+1.0
+
+Template Fraud Matches:
+3
+
+Collusion Ring Matches:
+3
+
+Claimant Statement:
+I was driving through an intersection when another vehicle struck my car.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Way two modern another defense middle.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM011,49.18,Medium,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM011
+
+Fraud Risk Index:
+49.18
+
+Risk Category:
+Medium
+
+Cross Encoder Verification Score:
+0.316327691881024
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Claimant Statement:
+
+
+My neck and lower back experienced severe pain immediately after impact.
+
+The collision caused significant emotional distress and loss of mobility.
+
+I continue to experience discomfort.
+
+
+Police Report:
+Traffic camera footage supports claimant statement.
+
+Adjuster Notes:
+Fire audience exist evening story to develop.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM012,27.78,Low,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM012
+
+Fraud Risk Index:
+27.78
+
+Risk Category:
+Low
+
+Cross Encoder Verification Score:
+0.7443736415564134
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Claimant Statement:
+The driver failed to yield and collided with my vehicle.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Sort a really sign positive.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM013,64.36,High,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM013
+
+Fraud Risk Index:
+64.36
+
+Risk Category:
+High
+
+Cross Encoder Verification Score:
+0.0128784847623985
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Claimant Statement:
+A vehicle rear-ended me while I was waiting at a traffic signal.
+
+Police Report:
+Accident report indicates claimant followed traffic rules.
+
+Adjuster Notes:
+Both administration kind film doctor.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM014,65.0,High,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM014
+
+Fraud Risk Index:
+65.0
+
+Risk Category:
+High
+
+Cross Encoder Verification Score:
+0.0
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Claimant Statement:
+I was traveling within the speed limit when the accident occurred.
+
+Police Report:
+Traffic camera footage supports claimant statement.
+
+Adjuster Notes:
+Treatment design first ok find audience.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"
+CLM015,25.0,Low,"
+
+You are a Senior Insurance Fraud Investigator.
+
+Analyze the following insurance claim.
+
+Claim ID:
+CLM015
+
+Fraud Risk Index:
+25.0
+
+Risk Category:
+Low
+
+Cross Encoder Verification Score:
+1.0
+
+Template Fraud Matches:
+3
+
+Collusion Ring Matches:
+0
+
+Claimant Statement:
+I was driving through an intersection when another vehicle struck my car.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+They full enjoy property look give.
+
+Generate:
+
+1. Executive Summary
+2. Key Fraud Indicators
+3. Contradictions Found
+4. Investigation Recommendation
+
+"

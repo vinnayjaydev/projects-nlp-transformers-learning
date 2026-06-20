@@ -1,0 +1,16 @@
+claim_id,fraud_risk_index,risk_category,brief
+CLM001,75.89,High,A vehicle rear-ended me while I was waiting at a traffic signal.
+CLM002,57.44,Medium,The vehicle changed lanes unexpectedly and hit my car. Police observed damage consistent with reported collision.
+CLM003,64.4,High,1. Fraud Summary 2. Key Contradictions 3. Supporting Evidence 4. Recommended Action
+CLM004,57.44,Medium,The vehicle changed lanes unexpectedly and hit my car. Police report: Police observed damage consistent with reported collision.
+CLM005,25.0,Low,1. Fraud Summary 2. Key Contradictions 3. Supporting Evidence 4. Recommended Action
+CLM006,40.16,Medium,1. Fraud Summary 2. Key Contradictions 3. Supporting Evidence 4. Recommended Action
+CLM007,89.76,Critical,1. Fraud Summary 2. Key Contradictions 3. Supporting Evidence 4. Recommended Action
+CLM008,74.33,High,The claimant was driving within the speed limit when the accident occurred.
+CLM009,84.71,Critical,The driver failed to yield and collided with my vehicle.
+CLM010,50.0,Medium,1. Fraud Summary 2. Key Contradictions 3. Supporting Evidence 4. Recommended Action
+CLM011,49.18,Medium,1. Fraud Summary 2. Key Contradictions 3. Supporting Evidence 4. Recommended Action
+CLM012,27.78,Low,The driver failed to yield and collided with my vehicle.
+CLM013,64.36,High,A vehicle rear-ended me while I was waiting at a traffic signal.
+CLM014,65.0,High,Traffic camera footage supports claimant statement.
+CLM015,25.0,Low,1. Fraud Summary 2. Key Contradictions 3. Supporting Evidence 4. Recommended Action

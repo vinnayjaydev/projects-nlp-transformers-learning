@@ -1,0 +1,480 @@
+claim_id,fraud_risk_score,report
+CLM001,90.89,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM001
+
+Claimant Statement:
+A vehicle rear-ended me while I was waiting at a traffic signal.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Section international though many movement.
+
+Verification Score:
+0.1821472668914981
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+2
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM002,67.44,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM002
+
+Claimant Statement:
+The vehicle changed lanes unexpectedly and hit my car.
+
+Police Report:
+Police observed damage consistent with reported collision.
+
+Adjuster Notes:
+Budget Mrs part spend middle threat smile increase.
+
+Verification Score:
+0.3512122393840929
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+1
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM003,74.4,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM003
+
+Claimant Statement:
+I was stopped at a red light when another vehicle hit me.
+
+Police Report:
+Accident report indicates claimant followed traffic rules.
+
+Adjuster Notes:
+Similar never box line.
+
+Verification Score:
+0.111989846886971
+
+Template Fraud Matches:
+0
+
+Collusion Ring Matches:
+2
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM004,67.44,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM004
+
+Claimant Statement:
+The vehicle changed lanes unexpectedly and hit my car.
+
+Police Report:
+Police observed damage consistent with reported collision.
+
+Adjuster Notes:
+Section season nor political bank.
+
+Verification Score:
+0.3512122393840929
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+1
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM005,60.0,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM005
+
+Claimant Statement:
+I was driving through an intersection when another vehicle struck my car.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Kind compare across audience society.
+
+Verification Score:
+1.0
+
+Template Fraud Matches:
+3
+
+Collusion Ring Matches:
+0
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM006,45.16,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM006
+
+Claimant Statement:
+
+
+My neck and lower back experienced severe pain immediately after impact.
+
+The collision caused significant emotional distress and loss of mobility.
+
+I continue to experience discomfort.
+
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Employee raise financial.
+
+Verification Score:
+0.4967261101968238
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM007,159.76,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM007
+
+Claimant Statement:
+I was driving through an intersection when another vehicle struck my car.
+
+Police Report:
+Traffic camera footage supports claimant statement.
+
+Adjuster Notes:
+Say moment election certain stuff staff bed.
+
+Verification Score:
+0.2047327677472691
+
+Template Fraud Matches:
+3
+
+Collusion Ring Matches:
+4
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM008,89.33,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM008
+
+Claimant Statement:
+I was traveling within the speed limit when the accident occurred.
+
+Police Report:
+Accident report indicates claimant followed traffic rules.
+
+Adjuster Notes:
+Brother they take positive apply relate.
+
+Verification Score:
+0.2134007206203658
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+2
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM009,109.71,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM009
+
+Claimant Statement:
+The driver failed to yield and collided with my vehicle.
+
+Police Report:
+Accident report indicates claimant followed traffic rules.
+
+Adjuster Notes:
+Treatment change building interesting scene.
+
+Verification Score:
+0.1058722311927585
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+3
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM010,105.0,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM010
+
+Claimant Statement:
+I was driving through an intersection when another vehicle struck my car.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Way two modern another defense middle.
+
+Verification Score:
+1.0
+
+Template Fraud Matches:
+3
+
+Collusion Ring Matches:
+3
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM011,54.18,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM011
+
+Claimant Statement:
+
+
+My neck and lower back experienced severe pain immediately after impact.
+
+The collision caused significant emotional distress and loss of mobility.
+
+I continue to experience discomfort.
+
+
+Police Report:
+Traffic camera footage supports claimant statement.
+
+Adjuster Notes:
+Fire audience exist evening story to develop.
+
+Verification Score:
+0.316327691881024
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM012,32.78,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM012
+
+Claimant Statement:
+The driver failed to yield and collided with my vehicle.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+Sort a really sign positive.
+
+Verification Score:
+0.7443736415564134
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM013,69.36,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM013
+
+Claimant Statement:
+A vehicle rear-ended me while I was waiting at a traffic signal.
+
+Police Report:
+Accident report indicates claimant followed traffic rules.
+
+Adjuster Notes:
+Both administration kind film doctor.
+
+Verification Score:
+0.0128784847623985
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM014,70.0,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM014
+
+Claimant Statement:
+I was traveling within the speed limit when the accident occurred.
+
+Police Report:
+Traffic camera footage supports claimant statement.
+
+Adjuster Notes:
+Treatment design first ok find audience.
+
+Verification Score:
+0.0
+
+Template Fraud Matches:
+1
+
+Collusion Ring Matches:
+0
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"
+CLM015,60.0,"
+You are an Insurance Fraud Investigator.
+
+Claim ID:
+CLM015
+
+Claimant Statement:
+I was driving through an intersection when another vehicle struck my car.
+
+Police Report:
+Witnesses confirmed another driver caused the accident.
+
+Adjuster Notes:
+They full enjoy property look give.
+
+Verification Score:
+1.0
+
+Template Fraud Matches:
+3
+
+Collusion Ring Matches:
+0
+
+Provide:
+
+1. Fraud Risk Assessment
+2. Key Contradictions
+3. Supporting Evidence
+4. Recommended Investigation Action
+"

@@ -1,0 +1,30 @@
+claim_id,claimant_name,vehicle_vin,mechanic_shop,clinic_name,lawyer,claimant_statement,police_report,adjuster_notes,medical_bill,fraud_label,verification_score,template_matches,ring_matches,fraud_risk_index,risk_category
+CLM001,Wendy Holland,FqH15433919443,Rapid Auto Repair,Care First Clinic,Smith & Associates,A vehicle rear-ended me while I was waiting at a traffic signal.,Witnesses confirmed another driver caused the accident.,Section international though many movement.,5072,0,0.182147267,1,2,75.89,High
+CLM002,Douglas Lara,acF49501195178,Rapid Auto Repair,Wellness Recovery Center,Anderson Legal,The vehicle changed lanes unexpectedly and hit my car.,Police observed damage consistent with reported collision.,Budget Mrs part spend middle threat smile increase.,1541,0,0.351212239,1,1,57.44,Medium
+CLM003,Chloe Murphy,xeQ24677572737,Rapid Auto Repair,Care First Clinic,Justice Partners,I was stopped at a red light when another vehicle hit me.,Accident report indicates claimant followed traffic rules.,Similar never box line.,20226,1,0.111989847,0,2,64.4,High
+CLM004,Jodi Reynolds MD,sPL40843321198,Rapid Auto Repair,Wellness Recovery Center,Justice Partners,The vehicle changed lanes unexpectedly and hit my car.,Police observed damage consistent with reported collision.,Section season nor political bank.,7723,0,0.351212239,1,1,57.44,Medium
+CLM005,Elizabeth Patel,mmr35740163797,Prime Vehicle Repair,Wellness Recovery Center,Smith & Associates,I was driving through an intersection when another vehicle struck my car.,Witnesses confirmed another driver caused the accident.,Kind compare across audience society.,23376,0,1,3,0,25,Low
+CLM006,Kevin Paul,cMw46708542594,Prime Vehicle Repair,Metro Injury Clinic,Smith & Associates,"
+
+My neck and lower back experienced severe pain immediately after impact.
+
+The collision caused significant emotional distress and loss of mobility.
+
+I continue to experience discomfort.
+",Witnesses confirmed another driver caused the accident.,Employee raise financial.,11529,1,0.49672611,1,0,40.16,Medium
+CLM007,Lisa Rich,lEk94627470017,Rapid Auto Repair,Care First Clinic,Premier Injury Law,I was driving through an intersection when another vehicle struck my car.,Traffic camera footage supports claimant statement.,Say moment election certain stuff staff bed.,11770,0,0.204732768,3,4,89.76,Critical
+CLM008,Pamela Hayes,yfD17615912160,Rapid Auto Repair,Metro Injury Clinic,Premier Injury Law,I was traveling within the speed limit when the accident occurred.,Accident report indicates claimant followed traffic rules.,Brother they take positive apply relate.,4590,1,0.213400721,1,2,74.33,High
+CLM009,Kendra Reyes,SVZ01756439163,Rapid Auto Repair,Metro Injury Clinic,Premier Injury Law,The driver failed to yield and collided with my vehicle.,Accident report indicates claimant followed traffic rules.,Treatment change building interesting scene.,12350,1,0.105872231,1,3,84.71,Critical
+CLM010,Julia Wilson,UsI18443206019,Rapid Auto Repair,Metro Injury Clinic,Premier Injury Law,I was driving through an intersection when another vehicle struck my car.,Witnesses confirmed another driver caused the accident.,Way two modern another defense middle.,9982,1,1,3,3,50,Medium
+CLM011,Patrick Harvey,leO61992562839,Rapid Auto Repair,Advanced Spine Center,Anderson Legal,"
+
+My neck and lower back experienced severe pain immediately after impact.
+
+The collision caused significant emotional distress and loss of mobility.
+
+I continue to experience discomfort.
+",Traffic camera footage supports claimant statement.,Fire audience exist evening story to develop.,15357,1,0.316327692,1,0,49.18,Medium
+CLM012,Stephanie Wood,gVm31415858542,Metro Auto Works,Advanced Spine Center,Smith & Associates,The driver failed to yield and collided with my vehicle.,Witnesses confirmed another driver caused the accident.,Sort a really sign positive.,22460,0,0.744373642,1,0,27.78,Low
+CLM013,Janice Zavala,UNh77629491304,Metro Auto Works,Care First Clinic,Accident Recovery Group,A vehicle rear-ended me while I was waiting at a traffic signal.,Accident report indicates claimant followed traffic rules.,Both administration kind film doctor.,24392,0,0.012878485,1,0,64.36,High
+CLM014,Misty Smith,xEH31776959722,Elite Collision Center,Advanced Spine Center,Premier Injury Law,I was traveling within the speed limit when the accident occurred.,Traffic camera footage supports claimant statement.,Treatment design first ok find audience.,21471,0,0,1,0,65,High
+CLM015,Patricia Lopez,IWf88424538264,Trusted Auto Garage,Advanced Spine Center,Smith & Associates,I was driving through an intersection when another vehicle struck my car.,Witnesses confirmed another driver caused the accident.,They full enjoy property look give.,1551,0,1,3,0,25,Low

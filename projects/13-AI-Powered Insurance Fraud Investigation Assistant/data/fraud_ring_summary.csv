@@ -1,0 +1,3 @@
+ring_id,member_count,members,ring_risk_score
+1,6,"['CLM010', 'CLM003', 'CLM009', 'CLM008', 'CLM007', 'CLM001']",60
+2,2,"['CLM002', 'CLM004']",20
