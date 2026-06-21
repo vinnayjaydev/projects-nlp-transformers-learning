@@ -1,0 +1,26 @@
+item_id,title,hybrid_score,user_id
+8,Startup Fundraising Guide,1.556001563257964,101
+6,Modern Data Engineering,0.5900697463480473,101
+7,Machine Learning in Finance,0.5191426200650406,101
+9,Nutrition Science,0.1810143887996674,101
+4,The Psychology of Habits,0.1247299760580063,101
+5,Cloud Computing Fundamentals,1.103535995393588,102
+9,Nutrition Science,0.19842562079429632,102
+6,Modern Data Engineering,0.1496535241603854,102
+4,The Psychology of Habits,0.13149364292621618,102
+7,Machine Learning in Finance,-0.1027434540770718,102
+8,Startup Fundraising Guide,0.21809348464012152,103
+7,Machine Learning in Finance,0.16555929183959947,103
+2,Building SpaceX,0.1510754525661469,103
+6,Modern Data Engineering,0.14580699801445,103
+3,AI for Healthcare,0.1388586312532424,103
+6,Modern Data Engineering,1.39604609150389,104
+5,Cloud Computing Fundamentals,1.3496592833469225,104
+9,Nutrition Science,0.19155216217041007,104
+4,The Psychology of Habits,0.10078568011522283,104
+2,Building SpaceX,-0.16499762962085796,104
+10,Large Language Models,1.423611988014968,105
+3,AI for Healthcare,1.4191043569515067,105
+2,Building SpaceX,0.5904810183969975,105
+1,The Early Days of Stripe,0.5656397396055698,105
+8,Startup Fundraising Guide,0.2199254035949706,105
