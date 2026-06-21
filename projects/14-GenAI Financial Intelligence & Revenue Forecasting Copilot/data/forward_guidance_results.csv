@@ -1,0 +1,13 @@
+ticker,quarter,forward_statements,guidance_count,guidance_score,revenue_million,positive_guidance_score
+ABC,2023-Q1,['We expect continued growth next quarter.'],1,1,120,1
+ABC,2023-Q2,['We expect strong momentum in Q3.'],1,1,128,2
+ABC,2023-Q3,"['\n        Customer demand exceeded expectations.', 'International expansion continues.']",2,2,138,0
+ABC,2023-Q4,['Management expects continued growth.'],1,1,150,1
+ABC,2024-Q1,"['Seasonality impacted sequential expansion slightly, but YoY trends remain robust.']",1,1,158,0
+ABC,2024-Q2,"['North American markets outperformed our internal forecasts.', 'We are raising our full-year guidance based on current pipeline visibility.']",2,2,167,0
+ABC,2024-Q3,['\n        European expansion is yielding solid initial returns despite local economic headwinds.'],1,1,174,0
+ABC,2024-Q4,['We enter 2025 with strong fundamental momentum and high visibility.'],1,1,190,2
+ABC,2025-Q1,"['\n        We carried the strong closing momentum of last year into Q1.', 'Professional services revenue saw an unexpected upside.']",2,2,198,2
+ABC,2025-Q2,['Net expansion rate among existing clients remains above 120%.'],1,1,210,0
+ABC,2025-Q3,"['\n        APAC region performance exceeded our three-year growth roadmap.', 'We remain comfortable with current consensus expectations.']",2,2,222,1
+ABC,2025-Q4,['Guidance for 2026 will reflect our expanding market share.'],1,1,240,1

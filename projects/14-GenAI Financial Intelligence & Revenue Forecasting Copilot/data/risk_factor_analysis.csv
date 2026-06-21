@@ -1,0 +1,13 @@
+ticker,quarter,inflation_risk,supply_chain_risk,regulatory_risk,currency_risk,competition_risk,total_risk_score,revenue_million,normalized_risk_score
+ABC,2023-Q1,1,1,0,0,0,2,120,1.0
+ABC,2023-Q2,0,0,0,1,0,1,128,0.5
+ABC,2023-Q3,0,0,1,0,0,1,138,0.5
+ABC,2023-Q4,0,0,0,0,0,0,150,0.0
+ABC,2024-Q1,0,0,0,0,0,0,158,0.0
+ABC,2024-Q2,0,0,0,1,1,2,167,1.0
+ABC,2024-Q3,0,0,1,0,0,1,174,0.5
+ABC,2024-Q4,0,0,0,0,0,0,190,0.0
+ABC,2025-Q1,0,0,0,0,0,0,198,0.0
+ABC,2025-Q2,0,0,0,0,0,0,210,0.0
+ABC,2025-Q3,1,0,0,1,0,2,222,1.0
+ABC,2025-Q4,0,0,0,0,1,1,240,0.5

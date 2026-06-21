@@ -1,0 +1,56 @@
+predicted_revenue,top_features,feature_importance,supporting_evidence
+167.00244140625,operating_income_million,0.9429254531860352,"
+        Record quarter performance.
+        Management expects continued growth.
+        Demand remains exceptionally strong.
+         
+        Macroeconomic slowdown remains possible.
+        Talent acquisition costs continue rising.
+         
+        Revenue growth exceeded internal expectations.
+        Operating leverage improved.
+        "
+167.00244140625,gross_margin_pct,0.057074546813964844,"
+        We carried the strong closing momentum of last year into Q1.
+        Professional services revenue saw an unexpected upside.
+        Implementation timelines for major cloud migrations have shortened.
+         
+        Geopolitical trade restrictions could indirectly affect our hardware partners.
+        Higher energy and cloud data center costs could pressure margins.
+         
+        Growth continues at a stable pace despite broader macroeconomic caution.
+        The balance sheet remains unleveraged with strong liquidity.
+        "
+167.00244140625,net_income_million,0.0,"
+        Record quarter performance.
+        Management expects continued growth.
+        Demand remains exceptionally strong.
+         
+        Macroeconomic slowdown remains possible.
+        Talent acquisition costs continue rising.
+         
+        Revenue growth exceeded internal expectations.
+        Operating leverage improved.
+        "
+167.00244140625,eps,0.0,"
+        A monumental year for ABC, closing out 2025 with stellar financial health.
+        Our next-gen platform has fully captured the market vanguard.
+        Guidance for 2026 will reflect our expanding market share.
+         
+        Aggressive counter-pricing by legacy competitors entering our niche.
+        Integration complexities from upcoming strategic M&A maneuvers.
+         
+        Full year revenue cross-compared to 2023 demonstrates sustained compounding.
+        Strong net income margins reflect high operating leverage across the business model.
+        "
+167.00244140625,weighted_sentiment,0.0,"
+        New AI-driven product modules saw record adoption rates.
+        North American markets outperformed our internal forecasts.
+        We are raising our full-year guidance based on current pipeline visibility.
+         
+        Intense competition in the mid-market segment could squeeze pricing.
+        Foreign exchange headwinds may create minor revenue drag.
+         
+        Expansion of gross margin driven by favorable product mix shifts.
+        Sales and marketing efficiency improved year-over-year.
+        "
