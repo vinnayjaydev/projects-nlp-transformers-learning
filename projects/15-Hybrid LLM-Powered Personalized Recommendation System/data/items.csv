@@ -1,0 +1,54 @@
+item_id,title,category,description
+1,The Early Days of Stripe,Startup,"
+        Story of how Stripe scaled into
+        one of the world's largest
+        fintech companies.
+        "
+2,Building SpaceX,Startup,"
+        Deep dive into SpaceX,
+        rocket engineering,
+        and company growth.
+        "
+3,AI for Healthcare,Artificial Intelligence,"
+        Applications of AI
+        in healthcare,
+        diagnostics,
+        and medical imaging.
+        "
+4,The Psychology of Habits,Wellness,"
+        Habit formation,
+        behavior change,
+        and productivity.
+        "
+5,Cloud Computing Fundamentals,Technology,"
+        Introduction to cloud platforms,
+        distributed systems,
+        and scalability.
+        "
+6,Modern Data Engineering,Data Engineering,"
+        Data pipelines,
+        ETL systems,
+        data warehouses,
+        and analytics.
+        "
+7,Machine Learning in Finance,Machine Learning,"
+        Predictive analytics,
+        financial forecasting,
+        and AI applications.
+        "
+8,Startup Fundraising Guide,Startup,"
+        Venture capital,
+        seed funding,
+        and startup growth.
+        "
+9,Nutrition Science,Health,"
+        Diet,
+        nutrition,
+        and long-term wellness.
+        "
+10,Large Language Models,Artificial Intelligence,"
+        Transformers,
+        LLMs,
+        generative AI,
+        and prompt engineering.
+        "

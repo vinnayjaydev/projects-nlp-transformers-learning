@@ -1,0 +1,31 @@
+source_item,recommended_item,similarity
+The Early Days of Stripe,Startup Fundraising Guide,0.6265566349029541
+The Early Days of Stripe,Building SpaceX,0.6049121618270874
+The Early Days of Stripe,Machine Learning in Finance,0.3049348294734955
+Building SpaceX,Startup Fundraising Guide,0.7916736602783203
+Building SpaceX,The Early Days of Stripe,0.6049121618270874
+Building SpaceX,Machine Learning in Finance,0.3552820682525635
+AI for Healthcare,Large Language Models,0.6893631219863892
+AI for Healthcare,Machine Learning in Finance,0.48962336778640747
+AI for Healthcare,Nutrition Science,0.344144344329834
+The Psychology of Habits,Nutrition Science,0.5842268466949463
+The Psychology of Habits,Startup Fundraising Guide,0.29436832666397095
+The Psychology of Habits,Machine Learning in Finance,0.21340137720108032
+Cloud Computing Fundamentals,Modern Data Engineering,0.4053001403808594
+Cloud Computing Fundamentals,Machine Learning in Finance,0.2944672405719757
+Cloud Computing Fundamentals,The Early Days of Stripe,0.2823202908039093
+Modern Data Engineering,Cloud Computing Fundamentals,0.4053001403808594
+Modern Data Engineering,Machine Learning in Finance,0.3877302408218384
+Modern Data Engineering,Large Language Models,0.3566852807998657
+Machine Learning in Finance,AI for Healthcare,0.48962336778640747
+Machine Learning in Finance,Large Language Models,0.4624304175376892
+Machine Learning in Finance,Startup Fundraising Guide,0.44833385944366455
+Startup Fundraising Guide,Building SpaceX,0.7916736602783203
+Startup Fundraising Guide,The Early Days of Stripe,0.6265566349029541
+Startup Fundraising Guide,Nutrition Science,0.482051283121109
+Nutrition Science,The Psychology of Habits,0.5842268466949463
+Nutrition Science,Startup Fundraising Guide,0.482051283121109
+Nutrition Science,Machine Learning in Finance,0.3759947121143341
+Large Language Models,AI for Healthcare,0.6893631219863892
+Large Language Models,Machine Learning in Finance,0.4624304175376892
+Large Language Models,Modern Data Engineering,0.3566852807998657
